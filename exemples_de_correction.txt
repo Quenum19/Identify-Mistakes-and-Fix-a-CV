@@ -1,0 +1,48 @@
+1. Pas de hiérarchie claire (sections mal structurées)
+Erreur : Le texte est compact, sans séparation nette entre les sections.
+Correction : Ajouter des titres visibles et espacés pour chaque section.
+
+✅ Exemple :
+
+📞 +1 123-456-7890 | 📧 johndoe@email.com | LinkedIn: linkedin.com/johndoe
+
+---
+
+🔹 **Objectif professionnel**
+Chef de projet et développeur web avec plus de 5 ans d’expérience, spécialisé dans l’amélioration des processus et le développement de solutions web innovantes. À la recherche d’un poste stimulant où je peux allier leadership et technologie.
+
+---
+
+🔹 **Expérience professionnelle**
+🔴 2. Pas de métriques ou de chiffres dans les expériences
+Erreur : Les réalisations sont vagues : “Managed various projects successfully.”
+Correction : Inclure des résultats mesurables.
+
+✅ Exemple :
+
+● Géré 8 projets simultanément avec un taux de satisfaction client de 95 %.
+● Réduit les délais de production de 20 % grâce à l’optimisation des processus internes.
+🔴 3. Trop de mots-clés non contextualisés dans "Skills"
+Erreur : Une simple liste de mots-clés (“Team Leadership, Agile, Docker...”) sans contexte.
+Correction : Montrer comment les compétences sont utilisées.
+
+✅ Exemple :
+
+● Leadership d’équipe : coordination de 10 développeurs sur des projets Agile.  
+● Méthodologie Agile : Scrum master sur 5 projets clients.  
+● Docker : Création d’environnements de développement conteneurisés pour une intégration continue.
+🔴 4. Profil LinkedIn inclus, mais sans lien cliquable et peu d'intérêt s'il est incomplet
+Erreur : Mention du profil sans contexte ni lien fonctionnel.
+Correction : S’assurer que le lien est cliquable et que le profil est à jour (ou ne pas l’inclure sinon).
+
+✅ Exemple :
+
+🔗 [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+🔴 5. L’Objectif ou Résumé professionnel est manquant
+Erreur : Le recruteur ne sait pas qui est le candidat ni son objectif professionnel.
+Correction : Ajouter une section "Profil" ou "Objectif" en haut.
+
+✅ Exemple :
+
+🔹 **Profil**
+Professionnel de la tech avec 5+ ans d’expérience en gestion de projet et développement web. Passionné par les technologies innovantes, je cherche à rejoindre une entreprise où je pourrai mettre à profit mes compétences techniques et mon leadership.
